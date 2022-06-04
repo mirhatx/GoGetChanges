@@ -1,6 +1,5 @@
 # GoGetChanges
-This tool check if a particular page's html content has been changed.
-
+Check if particular webpage's HTML content has changed
 
 ## Installation:
 
